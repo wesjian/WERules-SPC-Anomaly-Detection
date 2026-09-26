@@ -253,4 +253,4 @@ WERules-SPC-Anomaly-Detection/
 
 ## ライセンス
 
-MIT
+本プロジェクトは [GNU General Public License v3.0](LICENSE) の下でライセンスされています。
